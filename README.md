@@ -4,7 +4,7 @@ The purpose of this repository is to store all information for the American Engl
 There are two main folders in the repository:
 1. **Analyzers:** a repository for all analyzers that are related to this dictionary including the main analyzer that generates the final dictionary kb
 2. **Data:** the location of all the dictionary knowledge in simple text formats
-
+ 
 ## History
 The current dictionary what is used in the NLP Engine and by VisualText comes from [WordNet from Princeton](https://wordnet.princeton.edu/). It hasn't been updated since 2012 or there about.
 
